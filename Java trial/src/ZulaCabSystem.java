@@ -177,6 +177,7 @@ public class ZulaCabSystem {
         }
     }
 
+
     static void adminLogin() {
         System.out.print("\nEnter Admin Password: ");
         String password = scanner.nextLine();
